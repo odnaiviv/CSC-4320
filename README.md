@@ -1,2 +1,4 @@
-# CSC-4320
-CSC 4320: Operating Systems
+# CSC 4320: Spring 2023 (GSU)
+## Operating Systems
+
+ummm
