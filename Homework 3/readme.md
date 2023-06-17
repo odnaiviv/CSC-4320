@@ -9,4 +9,4 @@
 
 
 >My HW3 Submission PDF: 
->* [HW 3 - Vivian Do.pdf](hhttps://github.com/odnaiviv/CSC-4320/blob/main/Homework%203/HW%203%20-%20Vivian%20Do.pdf)
+>* [HW 3 - Vivian Do.pdf](https://github.com/odnaiviv/CSC-4320/blob/main/Homework%203/HW%203%20-%20Vivian%20Do.pdf)
